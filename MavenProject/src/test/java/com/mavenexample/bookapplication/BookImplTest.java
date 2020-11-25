@@ -1,13 +1,7 @@
-
-
+package com.mavenexample.bookapplication;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
-import com.mavenexample.bookapplication.Book;
-import com.mavenexample.bookapplication.BookNotFoundException;
-import com.mavenexample.bookapplication.BookOperationsImplementation;
-
 public class BookImplTest {
 
 	BookOperationsImplementation bookimp;
